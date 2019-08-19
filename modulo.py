@@ -1,1 +1,1 @@
-print("Esse é um módulo")
+print("Esse é um módulo bonito")
